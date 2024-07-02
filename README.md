@@ -25,7 +25,7 @@ Follow these instructions to set up and run the project on your local machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/like-rounak/memory-game.git
 cd memory-game
 ```
 
