@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [React Native](https://reactnative.dev/) - Framework for building native apps using React.
 - [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript.
 - [Expo](https://expo.dev/) - Framework and platform for universal React applications.
-```
+
 
 ### Additional Information
 
