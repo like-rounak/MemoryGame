@@ -107,7 +107,7 @@ Feel free to customize the `README.md` based on your preferences or any addition
 
 Here’s the final version based on the detailed features and requirements we discussed:
 
-```markdown
+
 # Memory Game
 
 A memory game implemented in React Native with TypeScript, where players match pairs of cards to win. This project uses Expo for development.
