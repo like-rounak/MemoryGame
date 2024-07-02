@@ -1,4 +1,4 @@
-```markdown
+
 # Memory Game
 
 A memory game implemented in React Native with TypeScript, where players match pairs of cards to win. This project uses Expo for development.
